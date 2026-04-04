@@ -114,8 +114,7 @@ Infraestructura:        Docker Swarm en VPS propio, deploy automatizado
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=luis171190&show_icons=true&count_private=true&hide_border=true&theme=github_dark" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=luis171190&hide_border=true&theme=github-dark-blue&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=luis171190&hide_border=true&theme=github-dark-blue&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff" width="60%" />
 
 </div>
 
