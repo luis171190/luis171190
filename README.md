@@ -88,11 +88,11 @@ Infraestructura:        Docker Swarm en VPS propio, deploy automatizado
 
 | Proyecto | Qué hace | Stack |
 |:--------:|:--------:|:-----:|
-| **Chatbot E-commerce** | Ventas por WhatsApp con carrito y cross-selling | `n8n` `OpenAI` `Evolution API` |
-| **Voice AI Agent** | Llamadas salientes + calificación de leads | `n8n` `Retell AI` `OpenAI` |
-| **Asistente Financiero** | Análisis financiero multi-flujo automatizado | `n8n` `Supabase` `OpenAI` |
-| **Sync Multi-tienda** | WooCommerce ↔ Odoo (-95% errores inventario) | `n8n` `JSON-RPC` `Webhooks` |
-| **Centralitas Salientes** | Agente de voz outbound para empresas | `n8n` `Retell AI` `Airtable` |
+| **[n8n Workflows Showcase](https://github.com/luis171190/n8n-workflows-showcase)** | 4 workflows producción: chatbot e-commerce, booking WhatsApp, sync WC↔Odoo, voice AI qualifier | `n8n` `OpenAI` `Anthropic` `Retell AI` |
+| **[Asistente Financiero](https://github.com/luis171190/asistente-financiero)** | Agente WhatsApp que registra gastos con IA y los muestra en dashboard PWA | `n8n` `Supabase` `OpenAI` `Evolution API` |
+| **Voice AI Lead Qualifier** | Llamadas salientes + scoring BANT + ruteo hot/warm/cold | `n8n` `Retell AI` `OpenAI` `Postgres` |
+| **WhatsApp Booking System** | Reservas conversacionales con state machine + slot reservation race-safe | `n8n` `Evolution API` `Postgres` |
+| **Multi-store Inventory Sync** | WooCommerce ↔ Odoo con circuit breaker + audit trail + reconciliación nightly | `n8n` `JSON-RPC` `Postgres` |
 
 </div>
 
