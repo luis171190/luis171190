@@ -1,28 +1,29 @@
 <div align="center">
 
 <!-- ANIMATED TYPING HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Luis+Molina+Reinoso;AI+Automation+Specialist+%7C+Data+Analytics+Senior)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=100&lines=Luis+Molina+Reinoso;AI+Automation+Engineer+%7C+Data+Analytics)](https://git.io/typing-svg)
 
-**Ingeniero en Sistemas — Construyo sistemas de IA que automatizan negocios reales.**
+**Systems Engineer — I build AI systems that automate real businesses.**
 
-Chatbots que venden. Agentes de voz que califican leads. Dashboards que muestran lo que importa.
+Chatbots that sell. Voice agents that qualify leads. Dashboards that show what matters.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-molina-171190/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luis_03_06_2@hotmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luis.03.06.2@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luis171190)
 
 </div>
 
 ---
 
-### 🤖 Qué hago
+### 🤖 What I do
 
 ```yaml
-Automatización con IA:  Flujos end-to-end con n8n + OpenAI + Anthropic
-Chatbots E-commerce:    Ventas WhatsApp para WooCommerce (carrito, envíos, cross-sell)
-Voice AI:               Llamadas salientes con Retell AI + calificación de leads
-Data Analytics:         Power BI con DAX avanzado, modelado estrella, RLS
-Infraestructura:        Docker Swarm en VPS propio, deploy automatizado
+AI Automation:      End-to-end workflows with n8n + OpenAI + Anthropic Claude
+AI Dev Tooling:     Claude Code + MCP for agentic development workflows
+E-commerce Bots:    WhatsApp sales assistants for WooCommerce (cart, shipping, cross-sell)
+Voice AI:           Outbound calls with Retell AI + automated lead qualification
+Data Analytics:     Power BI with advanced DAX, star schema modeling, RLS
+Infrastructure:     Docker Swarm on self-hosted VPS, automated deployments
 ```
 
 ---
@@ -31,11 +32,11 @@ Infraestructura:        Docker Swarm en VPS propio, deploy automatizado
 
 <div align="center">
 
-**IA & Automatización**
+**AI & Automation**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
@@ -54,7 +55,7 @@ Infraestructura:        Docker Swarm en VPS propio, deploy automatizado
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Infraestructura**
+**Infrastructure**
 
 ![Docker](https://img.shields.io/badge/Docker_Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -66,46 +67,46 @@ Infraestructura:        Docker Swarm en VPS propio, deploy automatizado
 
 ---
 
-### 📊 Resultados comprobables
+### 📊 Proven results
 
 <div align="center">
 
-| Área | Resultado |
-|:----:|:---------:|
-| 🔄 Automatización | **-50%** tareas manuales con n8n |
-| 📦 Inventario | **-95%** discrepancias con sync WooCommerce ↔ Odoo |
-| 📈 Dashboards | **+40%** performance con DAX optimizado |
-| ⏱️ Reportes | **-30%** tiempos con SQL optimizado |
-| 🎓 Formación | **120+** estudiantes capacitados |
+| Area | Result |
+|:----:|:------:|
+| 🔄 Automation | **-50%** manual tasks with n8n |
+| 📦 Inventory | **-95%** stock discrepancies with WooCommerce ↔ Odoo sync |
+| 📈 Dashboards | **+40%** performance with optimized DAX |
+| 🕵️ Error tracing | **1 week → 1 afternoon** with a Power BI reconciliation dashboard (Banco Nación) |
+| 🎓 Teaching | **120+** students trained in SQL & Power BI |
 
 </div>
 
 ---
 
-### 🚀 Proyectos en producción
+### 🚀 Production projects
 
 <div align="center">
 
-| Proyecto | Qué hace | Stack |
-|:--------:|:--------:|:-----:|
-| **[n8n Workflows Showcase](https://github.com/luis171190/n8n-workflows-showcase)** | 4 workflows producción: chatbot e-commerce, booking WhatsApp, sync WC↔Odoo, voice AI qualifier | `n8n` `OpenAI` `Anthropic` `Retell AI` |
-| **[Asistente Financiero](https://github.com/luis171190/asistente-financiero)** | Agente WhatsApp que registra gastos con IA y los muestra en dashboard PWA | `n8n` `Supabase` `OpenAI` `Evolution API` |
-| **Voice AI Lead Qualifier** | Llamadas salientes + scoring BANT + ruteo hot/warm/cold | `n8n` `Retell AI` `OpenAI` `Postgres` |
-| **WhatsApp Booking System** | Reservas conversacionales con state machine + slot reservation race-safe | `n8n` `Evolution API` `Postgres` |
-| **Multi-store Inventory Sync** | WooCommerce ↔ Odoo con circuit breaker + audit trail + reconciliación nightly | `n8n` `JSON-RPC` `Postgres` |
+| Project | What it does | Stack |
+|:-------:|:------------:|:-----:|
+| **[n8n Workflows Showcase](https://github.com/luis171190/n8n-workflows-showcase)** | 4 production-grade workflows: e-commerce chatbot, WhatsApp booking, WC↔Odoo sync, voice AI qualifier | `n8n` `OpenAI` `Anthropic` `Retell AI` |
+| **[AI Financial Assistant](https://github.com/luis171190/asistente-financiero)** | WhatsApp agent that logs expenses with AI and shows them in a PWA dashboard | `n8n` `Supabase` `OpenAI` `Evolution API` |
+| **Voice AI Lead Qualifier** | Outbound calls + BANT scoring + hot/warm/cold routing | `n8n` `Retell AI` `OpenAI` `Postgres` |
+| **WhatsApp Booking System** | Conversational bookings with persisted state machine + race-safe slot reservation | `n8n` `Evolution API` `Postgres` |
+| **Multi-store Inventory Sync** | WooCommerce ↔ Odoo with circuit breaker + audit trail + nightly reconciliation | `n8n` `JSON-RPC` `Postgres` |
 
 </div>
 
 ---
 
-### 🏢 Experiencia
+### 🏢 Experience
 
 ```
-2025 - Hoy    E2H2 Ingeniería        Consultor en Automatización & IA
-2025          BP Soluciones           Data Analytics Senior (15+ dashboards)
-2023 - 2025   Nación Servicios        Data Analytics Senior
-2023          CoderHouse              Profesor de Data Analytics (120+ alumnos)
-2022 - 2023   Inteligencia Analítica  Consultor BI
+2025 - 2026   E2H2 Ingeniería (Spain)   AI & Automation Consultant (production chatbots & agents)
+2025          BP Soluciones             Senior Data Analyst (15+ dashboards)
+2023 - 2025   Nación Servicios          Senior Data Analyst (Banco Nación — Argentina's largest state bank)
+2023          CoderHouse                Data Analytics Instructor (120+ students)
+2022 - 2023   Inteligencia Analítica    BI Consultant
 ```
 
 ---
@@ -122,16 +123,16 @@ Infraestructura:        Docker Swarm en VPS propio, deploy automatizado
 
 <div align="center">
 
-### 💼 ¿Necesitás automatizar tu negocio?
+### 💼 Need to automate your business?
 
-Chatbots de ventas · Agentes de voz · Integraciones multi-sistema · Dashboards
+Sales chatbots · Voice agents · Multi-system integrations · Dashboards
 
-**[Contactame en LinkedIn →](https://www.linkedin.com/in/luis-molina-171190/)**
+**[Reach out on LinkedIn →](https://www.linkedin.com/in/luis-molina-171190/)**
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=luis171190&color=58a6ff&style=flat-square&label=Visitas+al+perfil" />
+<img src="https://komarev.com/ghpvc/?username=luis171190&color=58a6ff&style=flat-square&label=Profile+views" />
 
-*San Miguel de Tucumán, Argentina 🇦🇷*
+*San Miguel de Tucumán, Argentina 🇦🇷 (UTC-3) — open to 100% remote international work*
 
 </div>
